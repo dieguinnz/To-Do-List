@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "descricao": "Estudar CSS",
+        "concluida": true,
+        "data_criacao": "",
+        "prazo": "Sem prazo"
+    },
+    {
+        "id": 2,
+        "descricao": "Estudar C#",
+        "concluida": false,
+        "data_criacao": "11/08/2025 17:29",
+        "prazo": "12/11/2025"
+    }
+]
